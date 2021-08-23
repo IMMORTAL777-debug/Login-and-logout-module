@@ -22,8 +22,8 @@ public class SendEmail {
         boolean test = false;
 
         String toEmail = user.getEmail();
-        String fromEmail = "nomsg711@gmail.com";
-        String password = "711olympus";
+        String fromEmail = "YourMail@gmail.com";
+        String password = "YourPassword";
 
         try {
 
